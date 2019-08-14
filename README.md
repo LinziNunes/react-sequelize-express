@@ -36,4 +36,5 @@ Mocha is used to build tests and Chai to configure the asserts (TDD) and the beh
 You can run all tests entering the server folder in terminal and just typing: ```npm run test``` - It's configured to run and compile with **Babel (ES6)** in then server "package.json".
 
 #### Developed by
+Linzi Nunes based off project by 
 Rodrigo Quiñones Pichioli, since Mar/02/2018
